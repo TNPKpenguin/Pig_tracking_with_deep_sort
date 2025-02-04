@@ -1,5 +1,5 @@
-# First you must install python and necessary libs
-# you can run "run_script.bat" file for start detect and tracking
+1. First you must install python and necessary libs
+2. you can run "run_script.bat" file for start detect and tracking
 
 # Official YOLOv7
 
